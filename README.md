@@ -348,8 +348,8 @@ Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of co
 
 For any queries, collaborations, or feedback, feel free to reach out:
 
-* **Email:** [team.visionx@example.com](mailto:team.visionx@example.com)
-* **Project Link:** [https://github.com/harshitmandal25/Sarva-Suraksha-System](https://github.com/harshitmandal25/Sarva-Suraksha-System)
+* **Email:** [harshitkirtiraj@gmail.com](mailto:harshitkirtiraj@gmail.com)
+* **Project Link:** [https://harshitmandal25.github.io/sarva-suraksha-system/](https://harshitmandal25.github.io/sarva-suraksha-system/)
 
 ---
 <div align="center">
